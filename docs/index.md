@@ -10,7 +10,7 @@ tagline: 实验室入门教程
 features: # 可选的
   - title: 基础
     details: Python 基础、网站开发基础、Linux 等
-    link: /web/ # 可选
+    link: /basic/ # 可选
     imgUrl: /img/web.png # 可选
   - title: NLP
     details: 深度学习、知识图谱等
